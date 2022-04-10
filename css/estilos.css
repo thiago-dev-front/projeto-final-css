@@ -144,7 +144,7 @@ main {
 }
 
 .formulario {
-  background-image: url('/img/contato.jpg');
+  background-image: url('../img/contato.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 10px;
